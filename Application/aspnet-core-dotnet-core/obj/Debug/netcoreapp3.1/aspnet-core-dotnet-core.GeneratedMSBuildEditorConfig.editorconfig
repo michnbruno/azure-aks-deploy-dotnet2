@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = aspnet_core_dotnet_core
+build_property.ProjectDir = C:\xfer_current\WorkingDirectory\20230103\mb-app-aks-demo-r2\Application\aspnet-core-dotnet-core\

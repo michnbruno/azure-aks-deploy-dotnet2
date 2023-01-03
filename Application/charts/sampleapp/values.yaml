@@ -1,7 +1,7 @@
-# Default values for sampleapp.
+# Default values for sampleapp2.
 # This is a YAML-formatted file.
 # Declare variables to be passed into your templates.
-fullnameOverride: sampleapp
+fullnameOverride: sampleapp2
 replicaCount: 2
 image:
   repository: VALUE_TO_BE_OVERRIDDEN

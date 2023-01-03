@@ -1,22 +1,22 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: {{ template "sampleapp.fullname" . }}
+  name: {{ template "sampleapp2.fullname" . }}
   labels:
-    app: {{ template "sampleapp.name" . }}
-    chart: {{ template "sampleapp.chart" . }}
+    app: {{ template "sampleapp2.name" . }}
+    chart: {{ template "sampleapp2.chart" . }}
     release: {{ .Release.Name }}
     heritage: {{ .Release.Service }}
 spec:
   replicas: {{ .Values.replicaCount }}
   selector:
     matchLabels:
-      app: {{ template "sampleapp.name" . }}
+      app: {{ template "sampleapp2.name" . }}
       release: {{ .Release.Name }}
   template:
     metadata:
       labels:
-        app: {{ template "sampleapp.name" . }}
+        app: {{ template "sampleapp2.name" . }}
         release: {{ .Release.Name }}
     spec:
       containers:
@@ -46,7 +46,7 @@ spec:
             - name: {{ $ref | upper }}_{{ $key | upper }}
               valueFrom:
                 secretKeyRef:
-                  name: {{ template "sampleapp.fullname" $root }}-{{ $ref }}
+                  name: {{ template "sampleapp2.fullname" $root }}-{{ $ref }}
                   key: {{ $key }}
             {{- end }}
             {{- end }}
