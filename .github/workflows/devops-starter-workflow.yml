@@ -5,7 +5,7 @@ on:
       - master
 
 env:
-  RESOURCEGROUPNAME: "rg-aks-demo-r2-acr"
+  RESOURCEGROUPNAME: "rg-aks-demo"
   EXISTINGRESOURCEGROUPNAME: "rg-aks-demo"
   SUBSCRIPTIONID: "e6a74373-114d-4e19-885e-fd206b16edc2"
   IMAGENAME: "mbappaksdemor2e652"
