@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MagHgi7ENH9DidvEMiuyVPmXCaMZt06y7hep97bh8ncJxKv/VWDVOmYLvaJboLNj1jyz0v4pQqLYbaPVLVzXkA==",
+  "dgSpecHash": "7TAJeoFXH5P/xXvJ+A/NKXZka4jxNLpJlIZ0yBc0czZWhVddszV4DphuRWa4daS6huE+Id+mUTcJ57rTaWCBgA==",
   "success": true,
-  "projectFilePath": "C:\\xfer_current\\WorkingDirectory2\\20230125\\mb-app-aks-demo-r2\\Application\\aspnet-core-dotnet-core\\aspnet-core-dotnet-core.csproj",
+  "projectFilePath": "C:\\xfer_current\\WorkingDirectory2\\demos_current\\mb-app-aks-demo-r2\\Application\\aspnet-core-dotnet-core\\aspnet-core-dotnet-core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\michn\\.nuget\\packages\\buildbundlerminifier\\3.2.449\\buildbundlerminifier.3.2.449.nupkg.sha512",
     "C:\\Users\\michn\\.nuget\\packages\\microsoft.applicationinsights\\2.14.0\\microsoft.applicationinsights.2.14.0.nupkg.sha512",

@@ -9178,11 +9178,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xfer_current\\WorkingDirectory2\\20230125\\mb-app-aks-demo-r2\\Application\\aspnet-core-dotnet-core\\aspnet-core-dotnet-core.csproj",
+      "projectUniqueName": "C:\\xfer_current\\WorkingDirectory2\\demos_current\\mb-app-aks-demo-r2\\Application\\aspnet-core-dotnet-core\\aspnet-core-dotnet-core.csproj",
       "projectName": "aspnet-core-dotnet-core",
-      "projectPath": "C:\\xfer_current\\WorkingDirectory2\\20230125\\mb-app-aks-demo-r2\\Application\\aspnet-core-dotnet-core\\aspnet-core-dotnet-core.csproj",
+      "projectPath": "C:\\xfer_current\\WorkingDirectory2\\demos_current\\mb-app-aks-demo-r2\\Application\\aspnet-core-dotnet-core\\aspnet-core-dotnet-core.csproj",
       "packagesPath": "C:\\Users\\michn\\.nuget\\packages\\",
-      "outputPath": "C:\\xfer_current\\WorkingDirectory2\\20230125\\mb-app-aks-demo-r2\\Application\\aspnet-core-dotnet-core\\obj\\",
+      "outputPath": "C:\\xfer_current\\WorkingDirectory2\\demos_current\\mb-app-aks-demo-r2\\Application\\aspnet-core-dotnet-core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
