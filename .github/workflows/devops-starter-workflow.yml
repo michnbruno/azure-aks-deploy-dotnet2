@@ -5,8 +5,8 @@ on:
       - master
 
 env:
-  RESOURCEGROUPNAME: "rg-aks-demo"
-  EXISTINGRESOURCEGROUPNAME: "rg-aks-demo"
+  RESOURCEGROUPNAME: "azure-aks-deploy-dotnet-rg"
+  EXISTINGRESOURCEGROUPNAME: "azure-aks-deploy-dotnet-rg"
   SUBSCRIPTIONID: "e6a74373-114d-4e19-885e-fd206b16edc2"
   IMAGENAME: "mbappaksdemor2e652"
   REGISTRYSKU: "Standard"
