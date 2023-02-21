@@ -13,7 +13,7 @@ env:
   REGISTRYNAME: "mbappaksdemor2acr"
   REGISTRYLOCATION: "East US"
   EXISTINGCLUSTERID: "/subscriptions/e6a74373-114d-4e19-885e-fd206b16edc2/resourcegroups/rg-aks-demo/providers/Microsoft.ContainerService/managedClusters/aks-cluster-demo"
-  EXISTINGCLUSTERNAME: "aks-cluster-demo"
+  EXISTINGCLUSTERNAME: "azure-aks-deploy-dotnet"
   APPINSIGHTSLOCATION: "East US"
   HTTPSAPPLICATIONROUTINGENABLED: false
   KUBERNETESAPI: "apps/v1"
